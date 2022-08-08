@@ -1,0 +1,5 @@
+- 👋 Olá, sou @magominimalista, mas meu nome é Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
+- 👀 Sou entusiasta em front e backend, tenhos outros hobbies também com design e escrita em geral.
+- 🌱 Atualmente estou focado no aprendizado de React Native e Node.
+- 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
+- 📫 Para me encontrar, fale pelo Whatsapp comigo em: https://wa.me/5584999622586, ou me mande um e-mail em: contato@magominimalista.com.br
