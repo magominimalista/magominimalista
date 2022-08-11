@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magominimalista&theme=github-dark-blue&locale=pt-br&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magominimalista&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=dark)](https://git.io/streak-stats)
