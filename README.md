@@ -4,7 +4,7 @@
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
 - 📫 Para me encontrar, fale pelo Whatsapp comigo em: https://wa.me/5584999622586, ou me mande um e-mail em: contato@magominimalista.com.br
 
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [!(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 [!(https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
 [!(https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)]
