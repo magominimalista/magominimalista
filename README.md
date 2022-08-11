@@ -4,6 +4,6 @@
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
 - 📫 Para me encontrar, fale pelo Whatsapp comigo em: https://wa.me/5584999622586, ou me mande um e-mail em: contato@magominimalista.com.br
 
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)]
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
