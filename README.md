@@ -4,6 +4,7 @@
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
 - 📫 Para me encontrar, fale pelo Whatsapp comigo em: https://wa.me/5584999622586, ou me mande um e-mail em: contato@magominimalista.com.br
 
+<div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magominimalista&theme=github-dark-blue&locale=pt-br&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magominimalista&layout=compact)](https://github.com/magominimalista/github-readme-stats)
-
+</div> 
