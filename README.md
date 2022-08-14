@@ -1,10 +1,15 @@
 ## Desenvolvedor full-stack
 
+### Sobre mim
+
 - 👋 Olá, sou @magominimalista. Me chamo Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
 - 👀 Sou entusiasta em front-end e back-end, tenhos outros hobbies também com design e escrita em geral.
 - 🌱 Atualmente estou focado no aprendizado de React Native e Node.
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
 - 📫 Para me encontrar, fale pelo Whatsapp comigo em: https://wa.me/5584999622586, ou me mande um e-mail em: contato@magominimalista.com.br
+
+---
+### Habilidades
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,6 +37,9 @@
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+
+---
+### Estatísticas
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
 
