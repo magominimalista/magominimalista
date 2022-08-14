@@ -1,7 +1,7 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmagominimalista1212%2Fhit-counter)
 
 > ### Full-stack web developer. 
-> Todos os meus links:   [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/magominimalista)
+[![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/magominimalista)
 
 ---
 
