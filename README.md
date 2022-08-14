@@ -1,5 +1,7 @@
 ## Desenvolvedor full-stack
 
+---
+
 ### Sobre mim
 
 - 👋 Olá, sou @magominimalista. Me chamo Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
