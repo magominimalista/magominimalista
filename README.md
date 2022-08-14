@@ -33,7 +33,6 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=caironm&type=horizontal&limit=3)](https://medium.com/@caironm)
-Result
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=caironm&type=vertical&limit=10)](https://medium.com/@caironm)
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
