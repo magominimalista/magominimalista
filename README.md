@@ -1,4 +1,4 @@
-### Título: Desenvolvedor full-stack
+### Full-stack web developer
 
 ---
 
