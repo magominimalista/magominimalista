@@ -57,6 +57,14 @@
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 ---
+
+### Incentivo
+
+Me incentive a estudar mais, fazer mais em prol da comunidade.
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/magominimalista)
+
+---
+
 ### Estatísticas
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
