@@ -34,3 +34,7 @@
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magominimalista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Result
+
