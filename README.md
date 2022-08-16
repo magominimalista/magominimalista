@@ -4,7 +4,7 @@
 
 ---
 
-### Sobre mim
+<details><summary>Sobre mim</summary>
 
 - 👋 Olá, sou @magominimalista. Me chamo Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
 - 👀 Sou entusiasta em front-end e back-end, tenhos outros hobbies também com design e escrita em geral.
@@ -12,6 +12,9 @@
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
 - 📫 Para me encontrar, fale pelo Whatsapp comigo pelo Whatsapp ou pelo e-mail em: contato@magominimalista.com.br
 - [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
+
+</details>
+### Sobre mim
 
 ---
 ### Redes Sociais
