@@ -15,9 +15,8 @@
 
 </details>
 
----
-
 <details><summary>Redes sociais</summary>
+ <br>
  
 | Link                |  Descrição                                      |
 | ------------------- | ----------------------------------------------- |
