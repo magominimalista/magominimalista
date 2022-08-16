@@ -6,7 +6,7 @@ _Clique nos itens abaixo para saber mais_
 
 ---
 
-
+| Coluna 1                                                         | Coluna 2                                                         |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- |
 | <details><summary>Sobre mim</summary>
 <br>
