@@ -3,6 +3,7 @@
 ### Full-stack web developer.
 
 _Clique nos itens abaixo para saber mais_
+
 ---
 
 <details><summary>Sobre mim</summary>
