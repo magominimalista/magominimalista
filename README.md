@@ -14,32 +14,23 @@
 
 ---
 ### Redes Sociais
-Meus posts sobre desenvolvimento
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/magominimalista)
+| Meus posts sobre desenvolvimento | [![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/magominimalista)
 
-Meus posts sobre design, tendências, redes sociais e outros
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@magominimalista)
+| Meus posts sobre design, tendências, redes sociais e outros | [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@magominimalista)
 
-Recursos e inspirações para usar em meus projetos
-[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/magominimalista)
+| Recursos e inspirações para usar em meus projetos | [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/magominimalista)
 
-Meus arquivos visuais e inspirações
-[![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/magominimalista/)
+| Meus arquivos visuais e inspirações | [![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/magominimalista/)
 
-Meu portifólio de design, sites, outros
-[![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/magominimalista)
+| Meu portifólio de design, sites, outros | [![](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/magominimalista)
 
-Pensamentos, notícias, amigos (conta nova)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magominimalista)
+| Pensamentos, notícias, amigos (conta nova) |  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magominimalista)
 
-Instagram profissional
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/magominimalista/)
+| Instagram profissional | [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/magominimalista/)
 
-Linkedin (precisa atualizar)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caironm/)
+|  Linkedin (precisa atualizar) |  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caironm/)
 
-Contato direto
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
+|  Contato direto |  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
 
 ---
 ### Habilidades
