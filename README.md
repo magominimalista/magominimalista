@@ -5,7 +5,8 @@
 ---
 
 <details><summary>Sobre mim</summary>
-
+<br>
+ 
 - 👋 Olá, sou @magominimalista. Me chamo Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
 - 👀 Sou entusiasta em front-end e back-end, tenhos outros hobbies também com design e escrita em geral.
 - 🌱 Atualmente estou focado no aprendizado de React Native e Node.
@@ -31,8 +32,8 @@
 
 </details>
 
----
-### Habilidades
+<details><summary>Tecnologias</summary>
+<br>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +62,7 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
----
+</details>
 
 ### Incentivo
 
@@ -69,7 +70,6 @@ Me incentive a estudar mais e fazer mais em prol da comunidade.
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/magominimalista)
 
----
 
 ### Estatísticas
 
