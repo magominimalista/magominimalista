@@ -1,7 +1,8 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmagominimalista1212%2Fhit-counter) [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/magominimalista)
 
-### Full-stack web developer. 
+### Full-stack web developer.
 
+_Clique nos itens abaixo para saber mais_
 ---
 
 <details><summary>Sobre mim</summary>
@@ -64,13 +65,18 @@
 
 </details>
 
-### Incentivo
+<details><summary>Incentivo</summary>
+<br>
 
 Me incentive a estudar mais e fazer mais em prol da comunidade.
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/magominimalista)
 
+</details>
 
-### Estatísticas
+<details><summary>Estatísticas</summary>
+<br>
 
 [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
+ 
+</details>
