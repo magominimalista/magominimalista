@@ -6,7 +6,9 @@ _Clique nos itens abaixo para saber mais_
 
 ---
 
-<details><summary>Sobre mim</summary>
+
+| ---------------------------------------------------------------- | ---------------------------------------------------------------- |
+| <details><summary>Sobre mim</summary>
 <br>
  
 - 👋 Olá, sou @magominimalista. Me chamo Philipe Cairon, tenho 33 anos de existência e 12 no mercado.
@@ -17,8 +19,7 @@ _Clique nos itens abaixo para saber mais_
 - [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
 
 </details>
-
-<details><summary>Redes sociais</summary>
+| <details><summary>Redes sociais</summary>
  <br>
  
 | Link                |  Descrição                                      |
