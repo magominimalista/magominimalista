@@ -10,9 +10,8 @@
 - 👀 Sou entusiasta em front-end e back-end, tenhos outros hobbies também com design e escrita em geral.
 - 🌱 Atualmente estou focado no aprendizado de React Native e Node.
 - 💞️ Tenho interesse em trabalhar com médios e grandes projetos.
-- 📫 Para me encontrar, fale pelo Whatsapp comigo em:
- [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
- ou me mande um e-mail em: contato@magominimalista.com.br
+- 📫 Para me encontrar, fale pelo Whatsapp comigo pelo Whatsapp ou pelo e-mail em: contato@magominimalista.com.br
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584999622586)
 
 ---
 ### Redes Sociais
