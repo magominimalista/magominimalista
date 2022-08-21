@@ -66,6 +66,54 @@ _Clique nos itens abaixo para saber mais_
 
 </details>
 
+<details><summary>Certificados</summary>
+ <br>
+ ### Formação: WORDPRESS
+ - 7 cursos | 58h
+ - Link: https://cursos.alura.com.br/degree/certificate/b955be4c-03eb-48e7-9075-54492413c705
+ - Cursos:
+  - Wordpress: sites com Elementor
+  - Wordpress: integração whatsapp e internacionalização
+  - PHP: conceitos, lidando com dados, loops e mais
+  - Avançando com PHP: Arrays, Strings, Função e Web
+  - WordPress: criação de um tema personalizado
+  - Plugin no Wordpress: widget, shortcode e configurações
+  - SEO Wordpress: otimize o ranqueamento do seu site
+  
+ ---
+ 
+ ### Formação: BOAS PRÁTICAS EM PHP
+ - 7 cursos | 56h
+ - Link: https://cursos.alura.com.br/degree/certificate/081b0da8-2b27-4907-b21f-d5aba7566136
+ - Cursos:
+  - SOLID com PHP: princípios da programação orientada a objetos
+  - Object Calisthenics: exercitando a Orientação a Objetos
+  - Refatoração em PHP: boas práticas no seu código
+  - XDebug: ferramenta de debug e profiling
+  - PHP e TDD: testes com PHPUnit
+  - Mocks em PHP: entenda os dublês de testes
+  - Testes de integração com PHP: testando o acesso à API e ao banco de dados
+  
+  ---
+  
+  ### Formação: ARQUITETURA PHP
+ - 10 cursos | 79h
+ - Link: https://cursos.alura.com.br/degree/certificate/beafd810-ddc5-4d0f-abc6-0b9eacab27d0
+ - Cursos:
+  - SOLID com PHP: princípios da programação orientada a objetos
+  - Object Calisthenics: exercitando a Orientação a Objetos
+  - Design Patterns em PHP: padrões comportamentais
+  - Design Patterns em PHP: padrões estruturais
+  - Design Patterns em PHP: padrões criacionais
+  - PHP e TDD: testes com PHPUnit
+  - Testes de integração com PHP: testando o acesso à API e ao banco de dados
+  - PHP e Behavior Driven Development: BDD com Behat
+  - PHP e Clean Architecture: descomplicando arquitetura de software
+  - PHP e Domain Driven Design: apresentando os conceitos
+  
+ 
+</details>
+
 <details><summary>Incentivo</summary>
 <br>
 
