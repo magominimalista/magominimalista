@@ -112,6 +112,8 @@ _Clique nos itens abaixo para saber mais_
    - PHP e Clean Architecture: descomplicando arquitetura de software
    - PHP e Domain Driven Design: apresentando os conceitos
   
+---
+ 
  
 </details>
 
