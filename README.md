@@ -128,6 +128,6 @@ Me incentive a estudar mais e fazer mais em prol da comunidade.
 
 <details><summary>Estatísticas</summary>
 <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=magominimalista&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=magominimalista&show_icons=true&theme=radical)](https://github.com/magominimalista)
  
 </details>
