@@ -129,6 +129,6 @@ Me incentive a estudar mais e fazer mais em prol da comunidade.
 <details><summary>Estatísticas</summary>
 <br>
 
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=magominimalista&theme=monokai)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magominimalista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </details>
