@@ -113,7 +113,12 @@ _Clique nos itens abaixo para saber mais_
    - PHP e Domain Driven Design: apresentando os conceitos
   
 ---
- 
+
+### Cursos Doctrine
+- Doctrine: conhecendo um ORM PHP
+  - Link: https://cursos.alura.com.br/certificate/32f682ea-c262-4f11-8c49-8d15f9144501
+- Doctrine: Migrations, relatórios e performance
+  - Link: https://cursos.alura.com.br/certificate/5fac1e40-9f99-45c7-ba7b-85b130cb0952
  
 </details>
 
