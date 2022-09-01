@@ -69,6 +69,21 @@ _Clique nos itens abaixo para saber mais_
 <details><summary>Certificados</summary>
  <br>
  
+ ### Formação: PHP
+ - 8 cursos | 71h
+ - Link: https://cursos.alura.com.br/degree/certificate/f03b1df0-c5d4-4b0a-b6d8-fe5ce71241d2
+ - Cursos:
+   - PHP: conceitos, lidando com dados, loops e mais
+   - Avançando com PHP: Arrays, Strings, Função e Web
+   - PHP: manipulando coleções com Arrays
+   - PHP Strings: manipulando textos com PHP
+   - Orientação a Objetos com PHP: Classes, métodos e atributos
+   - Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces
+   - PHP I/O: trabalhando com arquivos e streams
+   - PHP Exceptions: tratamento de erros
+  
+ ---
+ 
  ### Formação: WORDPRESS
  - 7 cursos | 58h
  - Link: https://cursos.alura.com.br/degree/certificate/b955be4c-03eb-48e7-9075-54492413c705
