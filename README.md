@@ -130,10 +130,16 @@ _Clique nos itens abaixo para saber mais_
 ---
 
 ### Cursos Doctrine
-- Doctrine: conhecendo um ORM PHP
+- Doctrine: conhecendo um ORM PHP | 8h
   - Link: https://cursos.alura.com.br/certificate/32f682ea-c262-4f11-8c49-8d15f9144501
-- Doctrine: Migrations, relatórios e performance
+- Doctrine: Migrations, relatórios e performance | 8h
   - Link: https://cursos.alura.com.br/certificate/5fac1e40-9f99-45c7-ba7b-85b130cb0952
+  
+---
+
+### Cursos Front-end
+- TAILWIND CSS: estilizando a sua página com classes utilitárias | 8h
+ - Link: https://cursos.alura.com.br/certificate/58f2d2a1-f363-42d7-b4f1-b6afd5d50e87
  
 </details>
 
