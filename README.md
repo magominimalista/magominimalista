@@ -143,6 +143,13 @@ _Clique nos itens abaixo para saber mais_
  
 </details>
 
+<details><summary>Estudando</summary>
+ <br>
+ 
+ - Formação: Digital & Agile Thinking 5/7
+ 
+</details>
+ 
 <details><summary>Incentivo</summary>
 <br>
 
