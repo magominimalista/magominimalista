@@ -69,6 +69,20 @@ _Clique nos itens abaixo para saber mais_
 <details><summary>Certificados</summary>
  <br>
  
+ ### Formação: Digital e Agile Thinking
+ - 7 cursos | 65h
+ - Link: https://cursos.alura.com.br/degree/certificate/4f4173f5-ccb9-4f56-a206-1379f3fb8c1f
+ - Cursos:
+  - Agilidade: promovendo a transformação ágil
+  - A Empresa Ágil: introduzindo o Business Agility nas organizações
+  - Scrum: agilidade em seu projeto
+  - Kanban: análises para implementação
+  - Kanban: evolua suas entregas com métricas
+  - Agile avançado: crie modelos e descubra o Nexus
+  - Management 3.0: gerencie o ambiente, não as pessoas
+ 
+ ---
+ 
  ### Formação: PHP
  - 8 cursos | 71h
  - Link: https://cursos.alura.com.br/degree/certificate/f03b1df0-c5d4-4b0a-b6d8-fe5ce71241d2
@@ -146,7 +160,7 @@ _Clique nos itens abaixo para saber mais_
 <details><summary>Estudando</summary>
  <br>
  
- - Formação: Digital & Agile Thinking 5/7
+ - Formação: Acessibilidade Web
  
 </details>
  
