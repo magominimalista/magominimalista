@@ -143,6 +143,15 @@ _Clique nos itens abaixo para saber mais_
   
 ---
 
+### Cursos Laravel
+- Laravel: criando uma aplicação com MVC | 8h
+  - Link: https://cursos.alura.com.br/certificate/c4e71388-8418-41b6-9950-b621a2caf78f
+- Laravel: validando formulários, usando sessões e definindo relacionamentos | 8h
+  - Link: https://cursos.alura.com.br/certificate/2f47c167-007d-4241-8b33-1f8a3866cedf
+- Laravel: transações, service container e autenticação | 8h
+  - Link: https://cursos.alura.com.br/certificate/9f61c7a9-f9bf-4131-b4f7-62dcde17c8d4
+---
+
 ### Cursos Doctrine
 - Doctrine: conhecendo um ORM PHP | 8h
   - Link: https://cursos.alura.com.br/certificate/32f682ea-c262-4f11-8c49-8d15f9144501
