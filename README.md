@@ -69,6 +69,14 @@ _Clique nos itens abaixo para saber mais_
 <details><summary>Certificados</summary>
  <br>
  
+ ### Empreendedor
+ - Freelancer parte 1: estruture seu negócio | 6h
+   - Link: https://cursos.alura.com.br/certificate/51c91ff0-405f-480f-b19f-7e93f32c7d32
+ - Freelancer parte 2: profissionalize seu negócio | 2h
+   - Link: https://cursos.alura.com.br/certificate/07624b44-c44d-45fe-9c29-3c2e723f049c
+ 
+ ---
+ 
  ### Formação: Digital e Agile Thinking
  - 7 cursos | 65h
  - Link: https://cursos.alura.com.br/degree/certificate/4f4173f5-ccb9-4f56-a206-1379f3fb8c1f
@@ -150,6 +158,8 @@ _Clique nos itens abaixo para saber mais_
   - Link: https://cursos.alura.com.br/certificate/2f47c167-007d-4241-8b33-1f8a3866cedf
 - Laravel: transações, service container e autenticação | 8h
   - Link: https://cursos.alura.com.br/certificate/9f61c7a9-f9bf-4131-b4f7-62dcde17c8d4
+- Laravel: e-mails, eventos assíncronos, uploads e testes | 8h
+  - Link: https://cursos.alura.com.br/certificate/8669d015-f4ce-457b-82da-1851d592e039
 ---
 
 ### Cursos Doctrine
