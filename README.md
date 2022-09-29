@@ -160,6 +160,8 @@ _Clique nos itens abaixo para saber mais_
   - Link: https://cursos.alura.com.br/certificate/9f61c7a9-f9bf-4131-b4f7-62dcde17c8d4
 - Laravel: e-mails, eventos assíncronos, uploads e testes | 8h
   - Link: https://cursos.alura.com.br/certificate/8669d015-f4ce-457b-82da-1851d592e039
+- Laravel: construindo APIs | 8h
+  - Link: https://cursos.alura.com.br/certificate/688e9452-77be-4f67-9850-e56335ca0ea0
 ---
 
 ### Cursos Doctrine
