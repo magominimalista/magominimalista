@@ -182,6 +182,8 @@ _Clique nos itens abaixo para saber mais_
  <br>
  
  - Formação: Acessibilidade Web
+ - DevOps
+ - Empreendedorismo
  
 </details>
  
