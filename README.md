@@ -91,6 +91,19 @@ _Clique nos itens abaixo para saber mais_
  
  ---
  
+ ### Formação: Começando em DevOps
+ - 6 cursos | 51h
+ - Link: https://cursos.alura.com.br/degree/certificate/a957e8e4-3785-472a-ad2c-97de9ea8d0d8
+ - Cursos:
+   - Arquitetura de computadores: por trás de como seu programa funciona
+   - Windows Prompt: Trabalhando na linha de comando
+   - Linux Onboarding: usando a CLI de uma forma rápida e prática
+   - Linux Onboarding: localizando arquivos e conteúdos
+   - Git e GitHub: repositório, commit e versões
+   - Redes onboarding: uma perspectiva prática
+
+---
+ 
  ### Formação: PHP
  - 8 cursos | 71h
  - Link: https://cursos.alura.com.br/degree/certificate/f03b1df0-c5d4-4b0a-b6d8-fe5ce71241d2
