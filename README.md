@@ -181,6 +181,18 @@ _Clique nos itens abaixo para saber mais_
   - Link: https://cursos.alura.com.br/certificate/5fac1e40-9f99-45c7-ba7b-85b130cb0952
   
 ---
+ 
+### Formação SEO
+ - 5 cursos | 51h
+ - Link: https://cursos.alura.com.br/degree/certificate/46f59d26-471b-4e37-9170-04b356c37ac6
+ - Cursos:
+   - SEO: otimização de sites
+   - SEO: estratégias e ferramentas
+   - Marketing Digital: análise de métricas
+   - Google Analytics 4: implementação e relatórios
+   - SEO: plataformas CMS
+ 
+---
 
 ### Cursos Front-end
 - TAILWIND CSS: estilizando a sua página com classes utilitárias | 8h
