@@ -116,7 +116,7 @@ _Clique nos itens abaixo para saber mais_
   
  ---
  
- ### Formação: WORDPRESS
+ ### Formação: Wordpress
  - 7 cursos | 58h
  - Link: https://cursos.alura.com.br/degree/certificate/b955be4c-03eb-48e7-9075-54492413c705
  - Cursos:
@@ -130,7 +130,7 @@ _Clique nos itens abaixo para saber mais_
   
  ---
  
- ### Formação: BOAS PRÁTICAS EM PHP
+ ### Formação: Boas práticas em PHP
  - 7 cursos | 56h
  - Link: https://cursos.alura.com.br/degree/certificate/081b0da8-2b27-4907-b21f-d5aba7566136
  - Cursos:
@@ -144,7 +144,7 @@ _Clique nos itens abaixo para saber mais_
   
   ---
   
-  ### Formação: ARQUITETURA PHP
+  ### Formação: Arquitetura PHP
  - 10 cursos | 79h
  - Link: https://cursos.alura.com.br/degree/certificate/beafd810-ddc5-4d0f-abc6-0b9eacab27d0
  - Cursos:
@@ -159,6 +159,22 @@ _Clique nos itens abaixo para saber mais_
    - PHP e Clean Architecture: descomplicando arquitetura de software
    - PHP e Domain Driven Design: apresentando os conceitos
   
+---
+ 
+ ### Formação: Engenharia de software
+ - 9 cursos | 86h
+ - Link: https://cursos.alura.com.br/degree/certificate/61b5617f-8b00-4d03-a25f-3be5229c7e19
+ - Cursos:
+   - Microsserviços: padrões de projeto
+   - Microsserviços: explorando os conceitos
+   - Microsserviços na prática: entendendo a tomada de decisões
+   - Integração Contínua: mais qualidade e menos risco no desenvolvimento
+   - Entrega Contínua: confiabilidade e qualidade na implantação de software
+   - Scrum: agilidade em seu projeto
+   - Organização de Equipes Ágeis: os papéis existentes em uma equipe
+   - Extreme Programming: metodologia de desenvolvimento ágil de software
+   - Quality Assurance: plano de testes e gestão de bugs
+ 
 ---
 
 ### Cursos de Laravel
