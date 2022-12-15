@@ -176,6 +176,19 @@ _Clique nos itens abaixo para saber mais_
    - Quality Assurance: plano de testes e gestão de bugs
  
 ---
+ 
+ ### Formação: DevOps
+ - 6 cursos | 58h
+ - Link: https://cursos.alura.com.br/degree/certificate/1e0ea673-1bd3-4afa-9469-b26a17a8c727
+ - Cursos:
+   - Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform
+   - Docker: criando e gerenciando containers
+   - Integração Contínua: testes automatizados e pipeline no Github Actions
+   - Integração Contínua: Pipeline Docker no Github Actions
+   - Observabilidade: coletando métricas de uma aplicação com Prometheus
+   - Monitoramento: Prometheus, Grafana e Alertmanager
+ 
+---
 
 ### Cursos de Laravel
 - Laravel: criando uma aplicação com MVC | 8h
