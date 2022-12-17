@@ -189,6 +189,14 @@ _Clique nos itens abaixo para saber mais_
    - Monitoramento: Prometheus, Grafana e Alertmanager
  
 ---
+ 
+ ### Cursos complementares de entrega contínua
+ - Integração Contínua: Pipeline de entrega e implementação contínua na EC2 | 8h
+   - Link: https://cursos.alura.com.br/certificate/72df7519-80f1-40d7-ad13-98b7521ce4b3
+ - Integração Contínua: automatize o deploy no Amazon ECS | 8h
+   - Link: https://cursos.alura.com.br/certificate/magominimalista/integracao-continua-automatize-deploy-amazon-ecs
+ 
+---
 
 ### Cursos de Laravel
 - Laravel: criando uma aplicação com MVC | 8h
