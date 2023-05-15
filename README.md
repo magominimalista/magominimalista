@@ -1,7 +1,5 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmagominimalista1212%2Fhit-counter) [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/magominimalista)
 
-<a href="https://app.daily.dev/magominimalista"><img src="https://api.daily.dev/devcards/0dd4d2a689ab4952adc267dd044b9196.png?r=j9i" width="400" alt="Philipe Cairon's Dev Card"/></a>
-
 ### Full-stack web developer.
 
 _Clique nos itens abaixo para saber mais_
