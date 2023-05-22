@@ -246,15 +246,6 @@ _Clique nos itens abaixo para saber mais_
  - Link: https://cursos.alura.com.br/certificate/58f2d2a1-f363-42d7-b4f1-b6afd5d50e87
  
 </details>
-
-<details><summary>Estudando</summary>
- <br>
- 
- - Formação: Acessibilidade Web
- - DevOps
- - Empreendedorismo
- 
-</details>
  
 <details><summary>Incentivo</summary>
 <br>
